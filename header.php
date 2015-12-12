@@ -14,7 +14,6 @@
     <div class="nav-wrapper container"><a id="logo-container" href="/" class="brand-logo"><?php echo $site_name; ?></a>
         <ul class="right hide-on-med-and-down">
             <li><a href="index.php">首页</a></li>
-            <li><a href="http://pan.baidu.com/s/1bnbosSB">客户端下载</a></li>
 			<?php if($user_need_invite == 1){ ?>
             <li><a href="code.php">邀请码</a></li>
 			<?php } ?>

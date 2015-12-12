@@ -26,7 +26,7 @@ include_once 'header.php';
         <div class="row">
             <div class="col s12 m4">
                 <div class="icon-block">
-                    <h2 class="center light-blue-text"><i class="material-icons">2</i></h2>
+                    <h2 class="center light-blue-text"><i class="material-icons">1</i></h2>
                     <h5 class="center">快速</h5>
 
                     <p class="light">
@@ -37,7 +37,7 @@ include_once 'header.php';
 
             <div class="col s12 m4">
                 <div class="icon-block">
-                    <h2 class="center light-blue-text"><i class="material-icons">3</i></h2>
+                    <h2 class="center light-blue-text"><i class="material-icons">2</i></h2>
                     <h5 class="center">安全</h5>
 
                     <p class="light">
@@ -48,7 +48,7 @@ include_once 'header.php';
 
             <div class="col s12 m4">
                 <div class="icon-block">
-                    <h2 class="center light-blue-text"><i class="material-icons">333</i></h2>
+                    <h2 class="center light-blue-text"><i class="material-icons">3</i></h2>
                     <h5 class="center">简单</h5>
 
                     <p class="light">
